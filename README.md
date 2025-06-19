@@ -40,5 +40,5 @@ We compare their historical stock prices with quarterly revenue to understand ma
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/tesla-gme-stock-analysis.git
+   https://github.com/Asif-770/tesla-gme-stock-analysis.git
    cd tesla-gme-stock-analysis
